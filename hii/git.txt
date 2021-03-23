@@ -1,0 +1,7 @@
+create repo
+clove repo to local mach
+create add new files
+push files
+check files and repo in brower
+pull repo 
+add new file push
